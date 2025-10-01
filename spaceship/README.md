@@ -17,7 +17,7 @@ Amaç, uzay gemisindeki yolcuların **transported (ışınlanma)** olup olmayaca
 ---
 
 ## 📊 Sonuçlar
-- (Buraya kendi Kaggle skorunu yazabilirsin, örn: **Kaggle Leaderboard: 0.79**)
+Kaggle Leaderboard: 0.78957
 
 ---
 
